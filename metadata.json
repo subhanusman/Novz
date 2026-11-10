@@ -1,0 +1,6 @@
+{
+  "name": "NEXTR Apex Health — Multi-Specialty Clinic Demo",
+  "description": "A premium multi-specialty healthcare clinic website demonstration developed by NEXTR Digital Solutions & Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
